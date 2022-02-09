@@ -11,10 +11,10 @@ After working for almost eight-year primarily focused on Java and its ecosystem,
 [You can get a copy of my resume HERE!](Ricardo_Montania_Prado_de_Campos_EN.pdf) Thanks for stopping by!
 
 
-[![](assets/linkedin.png)](http://www.zoe.com)
-[![](assets/instagram.png)](http://www.zoe.com)
-[![](assets/twitter.png)](http://www.zoe.com)
-[![](assets/telegram.png)](http://www.zoe.com)
+[![](assets/linkedin.png)](https://www.linkedin.com/in/ricardompcampos/)
+[![](assets/instagram.png)](https://www.instagram.com/ricardo_mpcampos/)
+[![](assets/twitter.png)](https://twitter.com/oRicardoCampos)
+[![](assets/telegram.png)](https://t.me/oRicardoCampos)
 
 # Experience
 

@@ -11,10 +11,10 @@ Após trabalhar por praticamente 8 anos focado principalmente em Java e seu ecos
 [Você pode obter uma cópia do meu currículo AQUI!](Ricardo_Montania_Prado_de_Campos_EN.pdf) Obrigado pela visita! 
 
 
-[![](assets/linkedin.png)](http://www.zoe.com)
-[![](assets/instagram.png)](http://www.zoe.com)
-[![](assets/twitter.png)](http://www.zoe.com)
-[![](assets/telegram.png)](http://www.zoe.com)
+[![](assets/linkedin.png)](https://www.linkedin.com/in/ricardompcampos/)
+[![](assets/instagram.png)](https://www.instagram.com/ricardo_mpcampos/)
+[![](assets/twitter.png)](https://twitter.com/oRicardoCampos)
+[![](assets/telegram.png)](https://t.me/oRicardoCampos)
 
 # Experiência
 

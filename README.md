@@ -1,12 +1,12 @@
 # Ricardo Campos #
 
 - 📫 Joinville, Santa Catarina, Brazil - 89228-070
-- 📞 (+55) 47 99169-9982
+- 📞 (+55) 47 99169-9982 (No WhatsApp, sorry)
 - 💻 ricardompcampos@gmail.com
 
-Hello! Welcome to my resume! I'm a Java developer, primarily focused on the Back-End, but I like a lot of Front-End too! Daily I'm working on a variety of services and technologies. Handling (and learning) a little bit of DevOps, CI/CD.
+Hello! Welcome to my resume! In a nutshell, I'm a Full-Stack Software Engineer, who likes very much of Java and its ecosystem and now is deep-diving into the React world! At my current position, I'm working with micro-services mostly in Java and React.
 
-After working for almost eight-year primarily focused on Java and its ecosystem, I joined Daitan, an Encora Company, where I'm having the opportunity to work with several technologies, like AWS, micros-services, and functional programming languages. 
+My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](https://daitan.com/), where I'm having the opportunity to work on incredible projects with several technologies, including Amazon AWS Cloud, micros-services, BFF, and functional programming language like Clojure.
 
 [You can get a copy of my resume HERE!](Ricardo_Montania_Prado_de_Campos_EN.pdf) Thanks for stopping by!
 
@@ -102,7 +102,7 @@ After working for almost eight-year primarily focused on Java and its ecosystem,
 - Jenkins
 
 # Interests
-🤓 In my free time, I often study English (pronunciation mostly), technologies and follow the community. Like most IT guys, I carry some stereotype, that includes: reading a lot (Find out more here), solving Rubik's Cube 3x3 and 4x4 at the work waiting for something, and movies. A bunch of movies!
+🤓 In my free time, I often study English (pronunciation mostly), technologies and follow the community. Like most IT guys, I carry some stereotype, that includes: reading a lot, solving Rubik's Cube 3x3 and 4x4 at the work waiting for something, and movies. A bunch of movies!
 
 💚 When I'm offline I spend most of my time with my wife. We like to watch movies (see?) and shows together, go out and discover new places, specially cafe bar (I'm a avid coffee lover and its variations).
 
@@ -110,13 +110,12 @@ After working for almost eight-year primarily focused on Java and its ecosystem,
 
 # Certifications and extra-activities
 
-- ✅ Linux systems admin - 2006 
-- ✅ EMPRETEC Program - 2007
+- ✅ Linux systems admin - Senac school - 2006 
+- ✅ EMPRETEC Program (entrepreneurship) - 2007
 - ✅ Contributor at the LibreOffice - 2012
-- ✅ Mastering Micro-services with Spring Boot and Spring Cloud - 2020
-- ✅ Sound School 5.0 (English pronunciation course) - 2021
-- ✅ Master the Linux Command Line - 2021
-- ✅ Data Security - 2021
+- ✅ Mastering Micro-services with Spring Boot and Spring Cloud - Udemy - 2020
+- ✅ Sound School 5.0 (English pronunciation course) - Private - 2021
+- ✅ Master the Linux Command Line - Udemy - 2021
 
 # More 
 

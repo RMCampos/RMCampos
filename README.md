@@ -8,7 +8,7 @@ Hello! Welcome to my resume! In a nutshell, I'm a Full-Stack Software Engineer, 
 
 My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](https://daitan.com/), where I'm having the opportunity to work on incredible projects with several technologies, including Amazon AWS Cloud, micros-services, BFF, and functional programming language like Clojure.
 
-[You can get a copy of my resume HERE!](Ricardo_Montania_Prado_de_Campos_EN.pdf) Thanks for stopping by!
+[You can get a copy of my resume HERE!](Ricardo_Campos_CV.pdf) Thanks for stopping by!
 
 
 [![](assets/linkedin.png)](https://www.linkedin.com/in/ricardompcampos/)
@@ -120,4 +120,5 @@ My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](ht
 # More 
 
 - [Ver em português (BR)](README-pt_BR.md)
-- [Download a copy (PDF)](Ricardo_Montania_Prado_de_Campos_EN.pdf)
+- [Download a copy (PDF)](Ricardo_Campos_CV.pdf)
+

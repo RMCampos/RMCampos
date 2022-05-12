@@ -8,7 +8,7 @@ Olá! Bem vindo ao meu currículo! Sou programador Java, primariamente focado em
 
 Após trabalhar por praticamente 8 anos focado principalmente em Java e seu ecossistema, iniciei na Daitan, uma empresa Encora, onde estou tendo a oportunidade de trabalhar com várias tecnologias, como AWS, microsserviços, e linguagem de programação funcional. 
 
-[Você pode obter uma cópia do meu currículo AQUI!](Ricardo_Montania_Prado_de_Campos_EN.pdf) Obrigado pela visita! 
+[Você pode obter uma cópia do meu currículo AQUI!](Ricardo_Campos_CV.pdf) Obrigado pela visita! 
 
 
 [![](assets/linkedin.png)](https://www.linkedin.com/in/ricardompcampos/)
@@ -121,4 +121,4 @@ Após trabalhar por praticamente 8 anos focado principalmente em Java e seu ecos
 # Mais 
 
 - [See in English (US)](README.md)
-- [Baixar uma cópia (PDF)](Ricardo_Montania_Prado_de_Campos_BR.pdf)
+- [Baixar uma cópia (PDF)](Ricardo_Campos_CV.pdf)

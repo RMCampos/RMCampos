@@ -17,7 +17,7 @@ Sou um programador Full-Stack, trabalhando com Java e o seu ecossistema, e mergu
 ### Outras páginas
 
 - [Esta introdução em Inglês](README.md)
-- [CV completo (Inglês)](RESUME_en.md)
+- [CV completo (Inglês)](RESUME.md)
 - [CV completo (Português do Brasil)](RESUME-pt_BR.md)
 
 [![Twitter Badge](https://img.shields.io/badge/-@oRicardoCampos-4d9bc0?style=flat-square&labelColor=4d9bc0&logo=twitter&logoColor=white&link=https://twitter.com/oRicardoCampos)](https://twitter.com/oRicardoCampos) [![Linkedin Badge](https://img.shields.io/badge/-ricardompcampos-063f5b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardompcampos/)](https://www.linkedin.com/in/ricardompcampos/) [![Gmail Badge](https://img.shields.io/badge/-ricardompcampos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardompcampos@gmail.com)](mailto:ricardompcampos@gmail.com)

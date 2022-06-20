@@ -4,9 +4,9 @@
 - 📞 (+55) 47 99169-9982 (No WhatsApp, sorry)
 - 💻 ricardompcampos@gmail.com
 
-Hello! Welcome to my resume! In a nutshell, I'm a Full-Stack Software Engineer, who likes very much of Java and its ecosystem and now is deep-diving into the React world! At my current position, I'm working with micro-services mostly in Java and React.
+Welcome to my resume! In a nutshell, I'm a Full-Stack Software Engineer, who likes very much of Java and its ecosystem and now is deep-diving into the React world! At my current position, I'm working with micro-services mostly in Java and React.
 
-My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](https://daitan.com/), where I'm having the opportunity to work on incredible projects with several technologies, including Amazon AWS Cloud, micros-services, BFF, and functional programming language like Clojure.
+My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](https://daitan.com/), where I'm having the opportunity to work on incredible and international projects with several technologies, including Amazon AWS Cloud, micros-services, BFF, and functional programming language like Clojure. My position here is Full-stack developer, and I'm the senior developer of my team.
 
 [You can get a copy of my resume HERE!](Ricardo_Campos_CV.pdf) Thanks for stopping by!
 
@@ -22,12 +22,15 @@ My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](ht
 > 🕙 Aug 2021 - Present
 >
 > Here I work with a large variety of people and technologies. Handling every day new challenges and coding in more than one language, always focusing on quality, for the user, and for developers.
+> Deep-diving a little bit, in my daily basis I have a Jira board, we work using the Scrum agile framework, with sprints of two weeks. The environment is quite complex, because of the quantity of the services.
 >
-> ✅ Java 8, 11, Spring boot, React
+> ✅ OpenJDK 8 and 11, Spring Web MVC (Boot), Javascript, React, Maven
 >
-> ✅ AWS, REST API, Testing
+> ✅ AWS, REST API, Testing, Postman
 >
-> ✅ MySQL, PostgreSQL
+> ✅ MySQL, PostgreSQL, DBeaver
+>
+> ✅ Docker, ArgoCD, Kibana, GitHub
 
 **Full-Stack developer | Kugel Soft, Joinville, Santa Catarina, Brazil**
 

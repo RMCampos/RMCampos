@@ -7,7 +7,7 @@ I'm a Full-Stack Software Engineer, working with Java and its ecosystem and deep
 - 🔍 I'm looking for help with Context API, React Hooks, and English fluency
 - 💡 Ask me about coding best practices, coffee, podcasts, marriage, and healthy food
 - 👉 Pronouns: https://pronoun.is/he
-- 🙃 Fun fact: I'm on my way to be a vegetarian
+- 🙃 Fun fact: I'm vegetarian. I dont support a soccer team, although I like beer
 - 💚 Languages: Java, PHP, Clojure, Javascript, SQL
 
 > Remmember: all you need to do is ask!
@@ -25,3 +25,16 @@ I'm a Full-Stack Software Engineer, working with Java and its ecosystem and deep
 ---
 
 ⭐️ From [larissajusten](https://github.com/larissajusten)
+
+---
+<h2>All right, if you're interested, here's a little bit more about myself</h2>
+- I consider myself as an introverted person, but after talking for some minutes, we can become friends easily.
+- I really like to read, mostly about adventures, science fiction and novels. Currently, I'm reading Think Straight.
+- Nowadays I prefer movies rather than series, because I'm trying to have a more quiet life.
+- For movies I like action, cars, love stories, science fiction
+- Movie: The Lords of The Ring
+- Book: Miss Peregrines Home For Peculiar Children
+- Actor: Leonardo DiCaprio
+- Actress: Jennifer Lawrence 
+- Movie director: Martin Scorsese 
+- And last but not least, I'm a cat person. But I also love dogs. 

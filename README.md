@@ -28,6 +28,7 @@ I'm a Full-Stack Software Engineer, working with Java and its ecosystem and deep
 
 ---
 <h2>All right, if you're interested, here's a little bit more about myself</h2>
+
 - I consider myself as an introverted person, but after talking for some minutes, we can become friends easily.
 - I really like to read, mostly about adventures, science fiction and novels. Currently, I'm reading Think Straight.
 - Nowadays I prefer movies rather than series, because I'm trying to have a more quiet life.

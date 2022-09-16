@@ -1,14 +1,14 @@
 <h2>Hey, welcome!</h2>
 
-I'm a Full-Stack Software Engineer, working with Java and its ecosystem and deep-diving into the React world!
+I'm a Tech Lead Full-Stack Software Engineer, working with Java and its ecosystem and deep-diving into the React world!
 
-- 💻 I'm currently working with Java, the Spring Framework, and React PWAs
-- 🤔 I'm studying and learning React
+- 💻 I'm currently working with Java, Spring Framework, and React PWAs
+- 🤔 I'm studying and learning React, TypeScript and Microservices
 - 🔍 I'm looking for help with Context API, React Hooks, and English fluency
 - 💡 Ask me about coding best practices, coffee, podcasts, marriage, and healthy food
 - 👉 Pronouns: https://pronoun.is/he
 - 🙃 Fun fact: I'm vegetarian. I dont support a soccer team, although I like beer
-- 💚 Languages: Java, PHP, Clojure, Javascript, SQL
+- 💚 Languages: Java, PHP, Clojure, JavaScript, SQL
 
 > Remmember: all you need to do is ask!
 

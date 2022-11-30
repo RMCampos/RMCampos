@@ -6,7 +6,7 @@
 
 Welcome to my resume! In a nutshell, I'm a Full-Stack Software Engineer, who likes very much of Java and its ecosystem and now is deep-diving into the React world! At my current position, I'm working with micro-services in Java and React.
 
-My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](https://daitan.com/), where I'm having the opportunity to work on incredible and international projects with several technologies, including Amazon AWS Cloud, micros-services, BFF, and functional programming language like Clojure. My position here is Tech Lead Full-stack developer, and I'm the senior developer of my team.
+My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](https://daitan.com/), where I'm having the opportunity to work on incredible and international projects with several technologies, including Amazon AWS, micros-services, BFF, and functional programming language like Clojure. My position here is Tech Lead.
 
 [You can get a copy of my resume HERE!](Ricardo_Campos_CV.pdf) Thanks for stopping by!
 
@@ -22,13 +22,13 @@ My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](ht
 > 🕙 Aug 2021 - Present
 >
 > Here I work with a large variety of people and technologies. Handling every day new challenges and coding in more than one language, always focusing on quality, for the user, and for developers.
-> Deep-diving a little bit, in my daily basis I have a Jira board, we work using the Scrum agile framework, with sprints of two weeks. The environment is quite complex, because of the quantity of the services.
+> In my daily basis I have a Jira board, we work using Scrum Agile Framework, with sprints of two weeks and all the regular rituals.
 >
-> ✅ OpenJDK 11, and 17, Spring Web MVC and Web Flux, JavaScript, TypeScript, React, Maven
+> ✅ OpenJDK 11, and 17, Spring Web MVC, JavaScript, TypeScript, React, Maven
 >
 > ✅ OpenShift, AWS, REST API, Testing, Postman
 >
-> ✅ MySQL, PostgreSQL, DBeaver
+> ✅ MySQL, PostgreSQL, Oracle, DBeaver
 >
 > ✅ Docker, ArgoCD, Kibana, GitHub, GitHub Actions
 

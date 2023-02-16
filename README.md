@@ -1,10 +1,10 @@
 <h2>Hey, welcome!</h2>
 
-I'm a Tech Lead Full-Stack Software Engineer, working with Java and its ecosystem and deep-diving into the React world!
+I'm a Software Engineer, soon with 10 years of experience, working with Back-end, Front-end, DevOps and Cloud!
 
-- 💻 I'm currently working with Java, Spring Framework, and React with TypeScript
+- 💻 I'm currently working with Spring Boot Web MVC, Docker, GitHub Actions, Keycloak, OpenShift, React and TypeScript.
 - 🤔 I'm studying Cloud and DevOps
-- 🔍 I'm looking for help with Context API, React Hooks
+- 🔍 I'm looking for help with AWS and soft skills
 - 💡 Ask me about coding best practices, coffee, podcasts, marriage, and healthy food
 - 👉 Pronouns: https://pronoun.is/he
 - 🙃 Fun fact: I'm vegetarian. I dont support a soccer team, although I like soccer and beer
@@ -30,7 +30,7 @@ I'm a Tech Lead Full-Stack Software Engineer, working with Java and its ecosyste
 <h2>All right, if you're interested, here's a little bit more about myself</h2>
 
 - I consider myself as an introverted person, but after talking for some minutes, we can become friends easily.
-- I really like to read, mostly about adventures, science fiction and novels. Currently, I'm reading Christmas Carol.
+- I really like reading, mostly about adventures, science fiction and novels. Currently, I'm reading Christmas Carol.
 - Nowadays I prefer movies rather than series, because I'm trying to have a more quiet life.
 - For movies I like action, cars, love stories, and science fiction
 - One movie: The Lords of The Ring

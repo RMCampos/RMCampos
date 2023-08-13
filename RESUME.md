@@ -1,8 +1,8 @@
 # Ricardo Campos
 
-- 📫 Joinville, Santa Catarina, Brazil - 89228-070
-- 📞 (+55) 47 99169-9982 (No WhatsApp, sorry)
-- 💻 ricardompcampos@gmail.com
+- 📫 Based in: Joinville, Santa Catarina, Brazil - 89228070
+- 📞 Phone: (+55) 47991699982 (No WhatsApp, sorry)
+- 💻 Email: ricardompcampos@gmail.com
 
 Welcome to my resume! In a nutshell, I'm a Full-Stack Software Engineer, who likes very much of Java and its ecosystem and now is deep-diving into the React world! At my current position, I'm working with micro-services in Java and React.
 
@@ -11,7 +11,7 @@ My current job, since August 2021, is at [Encora Brazil - Former Daitan Labs](ht
 [You can get a copy of my resume HERE!](Ricardo_Campos_CV.pdf) Thanks for stopping by!
 
 [![](assets/linkedin.png)](https://www.linkedin.com/in/ricardompcampos/)
-[![](assets/instagram.png)](https://www.instagram.com/ricardo_mpcampos/)
+[![](assets/instagram.png)](https://www.instagram.com/ricardo.rmcampos/)
 [![](assets/twitter.png)](https://twitter.com/oRicardoCampos)
 [![](assets/telegram.png)](https://t.me/oRicardoCampos)
 

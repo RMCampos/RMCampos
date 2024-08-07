@@ -1,10 +1,10 @@
-<h2>Hey, welcome!</h2>
+<h2>Hi, welcome!</h2>
 
-I'm a Software Engineer, soon with 10 years of experience, working with Back-end, Front-end, DevOps and Cloud!
+I'm a full stack software engineer, with over 10 years of experience, working in the back-end, front-end, DevOps practices and Cloud applications!
 
-- 💻 I'm currently working with Spring Boot Web MVC, Docker, GitHub Actions, Keycloak, OpenShift, React and TypeScript.
-- 🤔 I'm studying Cloud and DevOps
-- 🔍 I'm looking for help with AWS and soft skills
+- 💻 I'm currently working with Java 17, Spring Boot ecosystem, GraalVM, Docker, GitHub Actions, Kubernetes, OpenShift, Kibana, SysDig, monitoring, React and TypeScript.
+- 🤔 I'm studying GIS and React Leaflet, Also React ESRI plugin
+- 🔍 I'm looking for help with GIS
 - 💡 Ask me about coding best practices, coffee, podcasts, marriage, and healthy food
 - 👉 Pronouns: https://pronoun.is/he
 - 🙃 Fun fact: I'm vegetarian. I dont support a soccer team, although I like soccer and beer
@@ -16,7 +16,7 @@ I'm a Software Engineer, soon with 10 years of experience, working with Back-end
 
 ### Other pages
 
-- [This introduction in Brazilian Portuguese](README-pt_BR.md)
+- [This very introduction in Brazilian Portuguese](README-pt_BR.md)
 - [Full CV (US English)](RESUME.md)
 - [Full CV (Brazilian Portuguese)](RESUME-pt_BR.md)
 
@@ -24,7 +24,7 @@ I'm a Software Engineer, soon with 10 years of experience, working with Back-end
 
 ---
 
-⭐️ From [larissajusten](https://github.com/larissajusten)
+⭐️ Template from [larissajusten](https://github.com/larissajusten)
 
 ---
 <h2>All right, if you're interested, here's a little bit more about myself</h2>

@@ -1,14 +1,14 @@
-<h2>Hi, welcome!</h2>
+<h2>Hey!</h2>
 
-I'm a full stack software engineer, with over 10 years of experience, working in the back-end, front-end, DevOps practices and Cloud applications!
+I'm a full stack software engineer, with over 11 years of experience, working in the back-end, front-end, DevOps practices and Cloud applications!
 
-- 💻 I'm currently working with Java 17, Spring Boot ecosystem, GraalVM, Docker, GitHub Actions, Kubernetes, OpenShift, Kibana, SysDig, monitoring, React and TypeScript.
-- 🤔 I'm studying GIS and React Leaflet, Also React ESRI plugin
-- 🔍 I'm looking for help with GIS
+- 💻 I'm currently working with Java technologies, such as EJB, Spring Boot, Jenkins, Azure, Datadog, monitoring, Angular 15, TypeScript, and MS SQL Server.
+- 🤔 I'm studying Angular, Next, and Node.js (Express and TypeORM)
+- 🔍 I'm looking for help with Next and Express
 - 💡 Ask me about coding best practices, coffee, podcasts, marriage, and healthy food
 - 👉 Pronouns: https://pronoun.is/he
 - 🙃 Fun fact: I'm vegetarian. I dont support a soccer team, although I like soccer and beer
-- 💚 I can code in: Java, PHP, Clojure, JavaScript, TypeScript, SQL
+- 💚 My main tech stack: Java, PHP, JavaScript, TypeScript, SQL
 
 > Remmember: all you need to do is ask!
 

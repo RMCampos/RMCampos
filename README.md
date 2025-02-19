@@ -8,7 +8,7 @@ I'm a full stack software engineer, with over 11 years of experience, working in
 - 💡 Ask me about coding best practices, coffee, podcasts, marriage, and healthy food
 - 👉 Pronouns: https://pronoun.is/he
 - 🙃 Fun fact: I'm vegetarian. I dont support a soccer team, although I like soccer and beer
-- 💚 My main tech stack: Java, PHP, JavaScript, TypeScript, SQL
+- 💚 My main tech stack: Java (EJB, Wildfly, Spring, Quarkus, GraalVM), JavaScript, TypeScript (React, Angular, and Next), SQL (Postgres, MSSQL)
 
 > Remmember: all you need to do is ask!
 

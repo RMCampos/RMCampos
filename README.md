@@ -1,3 +1,10 @@
+<h1>Disclaimer</h1>
+
+Please note:
+
+- All my projects now lives on Gitea, please find them here: https://lightroasted.vps-kinghost.net/rmcampos
+- The latest version of my portfolio and resume can be found here: https://ricardo-campos.lightroasted.vps-kinghost.net
+
 <h2>Hey!</h2>
 
 I'm a full stack software engineer, with over 11 years of experience, working in the back-end, front-end, DevOps practices and Cloud applications!

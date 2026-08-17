@@ -12,7 +12,7 @@ I'm a full stack software engineer, with over 11 years of experience, working in
 
 > Remmember: all you need to do is ask!
 
-You can find my portfolio here: [Coming in just a minute](http://example.com)
+You can find my portfolio here: https://rmcampos.github.io/portfolio-and-cv/
 
 Thanks for stopping by!
 
